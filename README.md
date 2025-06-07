@@ -4,6 +4,7 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23005571.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
 ![JPA](https://img.shields.io/badge/JPA-%23007ACC.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -26,7 +27,6 @@
 ![EJS](https://img.shields.io/badge/EJS-%23808080.svg?style=for-the-badge&logo=ejs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-%2300232E.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Feign](https://img.shields.io/badge/Feign%20Client-%23005F87.svg?style=for-the-badge&logo=java&logoColor=white)
